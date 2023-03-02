@@ -1,0 +1,11 @@
+# Text_Adventure_Game-Harry_Potter
+
+The game presents a Python code based on "Harry Potter and the Philosopher's Stone".
+
+Features: 
+- Strings and String Manipulation
+- User-Defined Functions and Objects (variables)
+- User Input and Input Handling
+- Conditional and Nested Conditional Statements (if/elif/else)
+- Loops (for/while)
+- Controlling for Errors (try/except)
